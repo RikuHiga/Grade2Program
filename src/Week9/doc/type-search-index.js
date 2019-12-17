@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Week9","l":"TicTacToe"},{"l":"すべてのクラス","url":"allclasses-index.html"}]
